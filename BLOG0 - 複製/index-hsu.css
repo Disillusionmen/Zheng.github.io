@@ -1523,8 +1523,8 @@ input::placeholder {
 #web_bg {
   position: fixed;
   z-index: -999;
-  width: 80%;
-  height: 80%;
+  width: 120%;
+  height: 120%;
   background: url(/img/background.jpg);
   background-attachment: local;
   background-position: center;
